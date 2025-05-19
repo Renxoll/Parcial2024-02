@@ -1,0 +1,56 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Tech Summit 2025",
+      "description": "Annual summit for tech enthusiasts.",
+      "scheduledAt": "2025-06-15T09:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Startup Pitch Night",
+      "description": "Where innovative startups pitch their ideas.",
+      "scheduledAt": "2025-07-01T18:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "AI Conference",
+      "description": "Conference exploring the future of AI.",
+      "scheduledAt": "2025-08-10T10:00:00Z"
+    }
+  ],
+  "attendees": [
+    {
+      "id": "1",
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "eventId": 1,
+      "ticketIdentifier": "TS25-AJ01",
+      "checkedInAt": "2025-05-19T20:52:56.523Z"
+    },
+    {
+      "id": "2",
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "eventId": 1,
+      "ticketIdentifier": "TS25-BS02",
+      "checkedInAt": "2025-06-15T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "firstName": "Carla",
+      "lastName": "Martinez",
+      "eventId": 2,
+      "ticketIdentifier": "SPN-CM03",
+      "checkedInAt": "2025-05-19T20:50:41.174Z"
+    },
+    {
+      "id": "4",
+      "firstName": "Diego",
+      "lastName": "Ramos",
+      "eventId": 3,
+      "ticketIdentifier": "AIC-DR04",
+      "checkedInAt": "2025-08-10T10:05:00Z"
+    }
+  ]
+}
