@@ -1,0 +1,15 @@
+{
+  "home": "Inicio",
+  "welcome": "Bienvenido a Eventify",
+  "registeredEvents": "Eventos Registrados",
+  "checkIn": "Registro",
+  "certified": "Certificado ISO 27001:2022",
+  "ticketValidation": "Validación de Ticket",
+  "ticketIdentifier": "Identificador de Ticket",
+  "checkInButton": "Registrar",
+  "invalidTicket": "Identificador de ticket inválido",
+  "alreadyCheckedIn": "Ya registrado",
+  "eventCheckIn": "Registro de Evento",
+  "notFound": "Página no encontrada",
+  "goHome": "Ir al Inicio"
+}
